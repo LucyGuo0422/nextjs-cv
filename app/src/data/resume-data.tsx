@@ -4,7 +4,7 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "../components/icons";
 
 export const RESUME_DATA = {
-  name: "Your Name",
+  name: "Xiaofan Guo",
   initials: "YN",
   location: " Lorem Ipsum, DOL",
   locationLink: "https://www.google.com/maps/",
@@ -41,11 +41,12 @@ export const RESUME_DATA = {
     ],
   },
   education: [
+    
     {
-      school: "Faucibus Orci Luctus",
-      degree: "Bachelor's Degree in Vestibulum Ante",
-      start: "2007",
-      end: "2010",
+      school: "Northeastern University",
+      degree: "Bachelor's Degree in Computer Science",
+      start: "2010",
+      end: "2014",
     },
   ],
   work: [
